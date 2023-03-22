@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout<<"집에 가고 싶다!!!!!"<<std::endl;
+	std::cout<<"간곡히집에 가고싶다"<<std::endl;
 	return 0;
 }
